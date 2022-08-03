@@ -1,0 +1,6 @@
+/Users/linassmita/Desktop/Pitman/Advanced-C-Sharp-Projects/ArraysAssignment/bin/Debug/ArraysAssignment.exe
+/Users/linassmita/Desktop/Pitman/Advanced-C-Sharp-Projects/ArraysAssignment/bin/Debug/ArraysAssignment.pdb
+/Users/linassmita/Desktop/Pitman/Advanced-C-Sharp-Projects/ArraysAssignment/obj/Debug/ArraysAssignment.csproj.AssemblyReference.cache
+/Users/linassmita/Desktop/Pitman/Advanced-C-Sharp-Projects/ArraysAssignment/obj/Debug/ArraysAssignment.csproj.CoreCompileInputs.cache
+/Users/linassmita/Desktop/Pitman/Advanced-C-Sharp-Projects/ArraysAssignment/obj/Debug/ArraysAssignment.exe
+/Users/linassmita/Desktop/Pitman/Advanced-C-Sharp-Projects/ArraysAssignment/obj/Debug/ArraysAssignment.pdb

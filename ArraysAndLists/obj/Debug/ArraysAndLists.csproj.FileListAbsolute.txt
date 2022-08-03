@@ -1,0 +1,6 @@
+/Users/linassmita/Desktop/Pitman/Advanced-C-Sharp-Projects/ArraysAndLists/obj/Debug/ArraysAndLists.csproj.AssemblyReference.cache
+/Users/linassmita/Desktop/Pitman/Advanced-C-Sharp-Projects/ArraysAndLists/obj/Debug/ArraysAndLists.csproj.CoreCompileInputs.cache
+/Users/linassmita/Desktop/Pitman/Advanced-C-Sharp-Projects/ArraysAndLists/bin/Debug/ArraysAndLists.exe
+/Users/linassmita/Desktop/Pitman/Advanced-C-Sharp-Projects/ArraysAndLists/bin/Debug/ArraysAndLists.pdb
+/Users/linassmita/Desktop/Pitman/Advanced-C-Sharp-Projects/ArraysAndLists/obj/Debug/ArraysAndLists.exe
+/Users/linassmita/Desktop/Pitman/Advanced-C-Sharp-Projects/ArraysAndLists/obj/Debug/ArraysAndLists.pdb
